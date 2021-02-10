@@ -1,0 +1,6 @@
+{
+    "TOKEN": "90091812816539182:0:CiyIQlnUUqrj0szCmGE1wF47oc6cPx",
+    "URI": "wss://w1.nandbox.net:5020/nandbox/api/",
+    "DownloadServer": "https://w1.nandbox.net:5020/nandbox/download/",
+    "UploadServer": "https://w1.nandbox.net:5020/nandbox/upload/"
+}
